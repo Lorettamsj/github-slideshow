@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+to edit my file
 Use the left arrow to go back!
 this a slide show project 
